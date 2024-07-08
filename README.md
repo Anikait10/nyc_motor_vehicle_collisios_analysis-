@@ -47,7 +47,7 @@ pip install pandas matplotlib seaborn jupyter
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/traffic-accident-analysis.git
+git clone https://github.com/Anikait10/nyc_motor_vehicle_collisios_analysis-.git
 ```
 2. Navigate to the project directory:
 ```bash
@@ -55,7 +55,7 @@ cd traffic-accident-analysis
 ```
 3. Open the Jupyter notebook:
 ```bash
-jupyter notebook Project_1.ipynb
+jupyter notebook nyc_motor_vehicle_collisios_analysis.ipynb
 ```
 4. Run the cells in the notebook to see the analysis.
 
@@ -63,4 +63,4 @@ jupyter notebook Project_1.ipynb
 Contributions are welcome! Please open an issue or submit a pull request for any changes.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
